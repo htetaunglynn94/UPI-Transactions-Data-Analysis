@@ -6,7 +6,7 @@ This project analyzes **UPI (Unified Payments Interface) transaction data** to e
 
 The objective is to identify **usage trends**, detect **transaction inefficiencies**, and uncover **data-driven insights** that can support improvements in digital payment systems.
 
-**PowerBI Report**: [UPI Transactions Data Analysis.pbix](https://app.powerbi.com/links/Y6OOuUsY68?ctid=35ae1710-01c9-4681-aee5-aefcb73885b1&pbi_source=linkShare&bookmarkGuid=af2b3df3-2332-458d-a522-c3197b28b841)
+**PowerBI Report**: [UPI Transactions Data Analysis.pbix]([https://app.powerbi.com/links/Y6OOuUsY68?ctid=35ae1710-01c9-4681-aee5-aefcb73885b1&pbi_source=linkShare&bookmarkGuid=af2b3df3-2332-458d-a522-c3197b28b841](https://app.powerbi.com/links/Y6OOuUsY68?ctid=35ae1710-01c9-4681-aee5-aefcb73885b1&pbi_source=linkShare&bookmarkGuid=67b4e5e5-9e3e-40a3-be6e-21e6572b69a2))
 
 ---
 
